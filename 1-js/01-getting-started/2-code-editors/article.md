@@ -10,49 +10,49 @@ Existem dois arquétipos: IDE e editores leves. Muitas pessoas se sentem à vont
 
 O termo [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment) (Integrated Development Environment), ou Ambiente de desenvolvimento integrado, significa um editor poderoso com muitos recursos que geralmente opera em um "projeto inteiro". Como o nome sugere, não é apenas um editor, mas um "ambiente de desenvolvimento" em grande escala.
 
-An IDE loads the project (can be many files), allows navigation between files, provides autocompletion based on the whole project (not just the open file), integrates with a version management system (como [git](https://git-scm.com/)), um ambiente de teste e outras coisas de "nível de projeto".
+Uma IDE carrega o projeto (pode ser muitos arquivos), permite navegação entre arquivos, provê auto-complete baseado em todo o projeto (não apenas no aquivo aberto), integra um  sistema de gerenciamento de versão (como [git](https://git-scm.com/)), um ambiente de teste e outras coisas de "nível de projeto".
 
-If you haven't considered selecting an IDE yet, look at the following variants:
+Se você não considerou ainda e escolha de uma IDE, apresento uma lista com algumas variações:
 
-- [WebStorm](http://www.jetbrains.com/webstorm/) for frontend development and other editors of the same company if you need additional languages.
-- Visual Studio is fine if you're a .NET developer, and a free version is available ([Visual Studio Community](https://www.visualstudio.com/vs/community/))
+- [WebStorm](http://www.jetbrains.com/webstorm/) para desenvolvimento front-end e outros editores da mesma empresa caso precise de linguagens adicionais.
+- Visual Studio é recomendado se você é um desenvolvedor .NET, há uma versão gratuita em ([Visual Studio Community](https://www.visualstudio.com/vs/community/))
 - [Netbeans](http://netbeans.org/).
 
-All of the IDEs except Visual Studio are available on Windows, MacOs and Linux. Visual Studio doesn't work on Linux.
+Todas as IDEs exceto Visual Studio estão disponiveis para Windows, MacOs and Linux. Visual Studio não funciona no Linux.
 
-Most IDEs are paid, but have a trial period. Their cost is usually negligible compared to a qualified developer's salary, so just choose the best one for you.
+A maioria das IDEs são pagas, mas têm um período de avaliação. Seu custo é geralmente baixo se comparado ao salário de um desenvolvedor qualificado, então escolha o melhor pra você.
 
-## Lightweight editors
+## Editores leves
 
-"Lightweight editors" are not as powerful as IDEs, but they're fast, elegant and simple.
+"Editores leves" não são tão poderosos quanto IDEs, mas são rápidos, elegantes e simples.
 
-They are mainly used to instantly open and edit a file.
+São principalmente usados para abrir e editar arquivos de forma rápida.
 
-The main difference between a "lightweight editor" and an "IDE" is that an IDE works on a project-level, so it loads much more data on start, analyzes the project structure if needed and so on. A lightweight editor is much faster if we need only one file.
+A principal diferenca entre um "editor leve" e uma "IDE" é que uma IDE funciona no nível de projeto, então ele carrega muito mais dados ai iniciar, analiza a estrutura do projeto se necessário e mais tarefas. Um editor leve é muito rápido se nós precisamos apenas de um arquivo.
 
-In practice, lightweight editors may have a lot of plugins including directory-level syntax analyzers and autocompleters, so there's no strict border between a lightweight editor and an IDE.
+Na prática, um editor leve pode ter muitos plugins incluindo níveis de diretório analizador de sintaxe e autocompleters, então não há necessariamente uma fronteira fixa entre um editor leve e uma IDE.
 
-The following options deserve your attention:
+As seguintes opções merecem sua atenção:
 
 - [Visual Studio Code](https://code.visualstudio.com/) (cross-platform, free).
 - [Atom](https://atom.io/) (cross-platform, free).
 - [Sublime Text](http://www.sublimetext.com) (cross-platform, shareware).
 - [Notepad++](https://notepad-plus-plus.org/) (Windows, free).
-- [Vim](http://www.vim.org/) and [Emacs](https://www.gnu.org/software/emacs/) are also cool, if you know how to use them.
+- [Vim](http://www.vim.org/) e [Emacs](https://www.gnu.org/software/emacs/) são muito interessantes, se souber como utilizá-las.
 
-## My favorites
+## Meus favoritos
 
-The personal preference of the author is to have both an IDE for projects and a lightweight editor for quick and easy file editing.
+A preferência pessoal do autor é ter ambos uma IDE para projetos e um editor leve para editar arquivos simples.
 
-I'm using:
+Estou usando:
 
-- [WebStorm](http://www.jetbrains.com/webstorm/) for JS, and if there is one more language in the project, then I switch to one of the other Jetbrains offerings listed above.
-- As a lightweight editor -- [Sublime Text](http://www.sublimetext.com) or [Atom](https://atom.io/).
+- [WebStorm](http://www.jetbrains.com/webstorm/) para JS, e se existir uma outra linguagem no projeto, então troco por um dos outros da Jetbrains apresentados na lista acima.
+- Como editores leves utilizo -- [Sublime Text](http://www.sublimetext.com) ou [Atom](https://atom.io/).
 
-## Let's not argue
+## Não vamos discutir
 
-The editors in the lists above are those that either I or my friends who I consider good developers have been using for a long time and are happy with.
+Os editores na lista acima são aqueles que eu ou meus amigos que considero bons desenvolvedores estamos usando há muito tempo e estamos felizes com eles.
 
-There are other great editors in our big world. Please choose the one you like the most.
+Existem outros ótimos editores neste mundo gigante. Por favor escolha um que mais lhe agrade.
 
-The choice of an editor, like any other tool, is individual and depends on your projects, habits, personal preferences.
+A escolha de um editor, como qualquer outra ferramenta, é individual e depende dos seus projetos, hábitos e preferências pessoais.
